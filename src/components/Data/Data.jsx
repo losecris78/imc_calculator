@@ -18,40 +18,7 @@ const Calculos = ()=>{
                 <p>Por favor ingresa tus datos.</p>
             )
         }
-        /*if (arredondado > 0 ){
-            if (arredondado <= 18.5){
-                return(
-                    <p>O teu índice de massa corporal está abaixo do recomendado.</p>
-                )
-            } if({arredondado} >= 18.6 && {arredondado} <= 24.9) {
-                return(
-                    <p>O teu índice de massa corporal está normal.</p>
-                )
-            }if({arredondado} >= 25.0 && {arredondado} <= 29.9) {
-                return(
-                    <p>O teu índice de massa corporal está em sobrepeso.</p>
-                )
-            }if({arredondado} >= 30.0 && {arredondado} <= 34.9) {
-                return(
-                    <p>O teu índice de massa corporal está em obesidade grau I.</p>
-                )
-            }if({arredondado} >= 35.0 && {arredondado} <= 39.9) {
-                return(
-                    <p>O teu índice de massa corporal está em obesidade grau II.</p>
-                )
-            }if ({arredondado} >= 40) {
-                return(
-                    <p>O teu índice de massa corporal está em obesidade grau III.</p>
-                )
-            }
-            return(
-                
-            )
-        } else{
-            return( 
-                <p>Por favor ingresa teus dados no formato certo, peso em Kg e altura em metros.</p>
-            )
-        }*/
+        
     }
     
 
